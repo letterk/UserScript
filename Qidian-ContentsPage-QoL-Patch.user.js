@@ -2,10 +2,11 @@
 // @name         起点目录页Qol补丁
 // @namespace    https://github.com/letterk/UserScript
 // @author       letterk
-// @version      0.1
+// @version      0.1.1
 // @description  计算日均更新字数
 // @match        https://www.qidian.com/book/*
 // @grant        none
+// @run-at       document-end
 // ==/UserScript==
 
 (function() {
